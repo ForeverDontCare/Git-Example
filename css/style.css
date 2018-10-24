@@ -1,0 +1,100 @@
+h1 {
+    text-align: center;
+    color: indianred;
+}
+
+p {
+    color: dimgray;
+}
+
+#lorem {
+    font-size: 20pt;
+}
+
+.unlisted-item {
+    font-size: 12pt;
+    color: deepskyblue;
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+.unlisted-item:hover {
+    color: blue;
+}
+
+.div {
+    text-align: center;
+}
+
+body {
+    background-color: lemonchiffon;
+}
+
+#game-maps {
+    color: red;
+}
+
+h3 {
+    text-decoration: underline;
+}
+
+.link {
+    text-decoration: none;
+    cursor: pointer;
+    color: deepskyblue;
+}
+
+.link:hover {
+    color: blue;
+}
+
+.center {
+    text-align: center;
+}
+
+#image-mail {
+    width: 150px;
+}
+
+/*====================*/
+
+table {
+    background-color: lightcoral;
+    padding: 5px;
+    border-style: outset;
+    border-width: 12px;
+    border-color: coral;
+    border-spacing: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#gender {
+    text-align: center;
+    font-size: 12pt;
+    font-weight: bold;
+}
+
+table td{
+    width:150px;
+}
+
+.small {
+    width: 25%;
+}
+
+#intersets {
+    text-align: center;
+    font-size: 14pt;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+td {
+    border-style: inset;
+    border-color: inherit;
+}
+
