@@ -72,11 +72,13 @@ table {
     margin-right: auto;
 }
 
+/*
 #gender {
     text-align: center;
     font-size: 12pt;
     font-weight: bold;
 }
+*/
 
 table td{
     width:150px;
